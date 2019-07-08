@@ -1,0 +1,9 @@
+[build]
+  base = "portfolio/"
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+[context.production]
+  publish = "portfolio/build/"
+  command = "npm run build"
