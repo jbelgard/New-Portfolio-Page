@@ -12,7 +12,7 @@ class Header extends Component {
                             <a class="nav-item nav-link" href="#about">About Jason</a>
                             <a class="nav-item nav-link" href="#projects">Jason's Projects</a>
                             <a class="nav-item nav-link" href="#contact">Contact Jason</a>
-                            <a class="nav-item nav-link" href="#resume">Jason's Resume</a>
+                            <a class="nav-item nav-link" href="https://www.resume.com/share/jasonbelgard">Jason's Resume</a>
                         </div>
                     </div>
                 </nav>
